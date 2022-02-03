@@ -7,7 +7,7 @@
 
 𝐃 - Right Rotation
 
-𝐒𝐩𝐚𝐜𝐞 - Rocket Boost
+𝐒𝐩𝐚𝐜𝐞 - Boost The Rocket
 
 𝐄𝐬𝐜 - Quit Game
 ![Pink Colorful Valentine Greeting Postcard](https://user-images.githubusercontent.com/97457787/152299255-b1e9414f-959b-4e32-a598-d68f7e78d59b.png)
