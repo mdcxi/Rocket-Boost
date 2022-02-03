@@ -8,6 +8,6 @@
 
 𝐄𝐬𝐜 - 𝐐𝐮𝐢𝐭 𝐆𝐚𝐦𝐞
 
-![DEMO](https://user-images.githubusercontent.com/97457787/152301866-1a3aab52-c6ca-488a-98b7-f44ee7c5d288.png)
+![Untitled](https://user-images.githubusercontent.com/97457787/152302380-056bcaa0-ef29-44d0-aa9b-295c85b5671b.png)
 
 
