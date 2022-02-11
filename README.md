@@ -1,4 +1,6 @@
-# Rocket-Boost
+# Rocket Boost
+
+This game is developed for 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡𝗔𝗟 𝗣𝗨𝗥𝗣𝗢𝗦𝗘𝗦 𝗢𝗡𝗟𝗬, 𝗡𝗢 𝗖𝗢𝗠𝗠𝗘𝗥𝗖𝗜𝗔𝗟 𝗥𝗘𝗟𝗘𝗔𝗦𝗘. 
 
 𝐀 - 𝐋𝐞𝐟𝐭 𝐑𝐨𝐭𝐚𝐭𝐢𝐨𝐧
 
